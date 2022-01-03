@@ -1,0 +1,2 @@
+# SmartCity
+Smart City project allows tourists &amp; other visitors to the city by providing information about hotels, transportation facilities, air ticket booking, shopping details, city news etc. Hence it serves as a guide of the city to city visitors. It is a web-based software developed in Java Programming language that solves most of the problems that any new visitor faces when coming to a new city like pathfinding, hotel searching, ticket booking and more.
